@@ -1,16 +1,23 @@
-## Hi there 👋
+# Dylan Lamb
 
-<!--
-**dylanlamb19/dylanlamb19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web design & digital marketing — sites that turn local search into booked jobs.
 
-Here are some ideas to get you started:
+**[LinkedIn](https://www.linkedin.com/in/dylan-lamb-8b9321191)** · **[Portfolio case study](https://github.com/dylanlamb19/mr-bills-plumbing)** · **[Live site](https://mrbillsplumbing.grok.me)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Featured work
+
+**[Mr. Bill's Plumbing](https://mrbillsplumbing.grok.me)** — conversion-focused website for a Cleburne, TX family plumbing shop (est. 1993). Local SEO, clear CTAs, trust signals (license, reviews, service area).
+
+Case study: [dylanlamb19/mr-bills-plumbing](https://github.com/dylanlamb19/mr-bills-plumbing)
+
+---
+
+### What I help with
+
+- Local business websites that convert
+- Digital marketing & web design for service businesses
+- Clear positioning, copy, and call-to-action paths
+
+Connect on LinkedIn: [dylan-lamb-8b9321191](https://www.linkedin.com/in/dylan-lamb-8b9321191)
