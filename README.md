@@ -1,23 +1,17 @@
 # Dylan Lamb
 
-Web design & digital marketing — sites that turn local search into booked jobs.
+Software developer. I build full-stack TypeScript apps — lead generation engines, social platforms, and automation tooling.
 
-**[LinkedIn](https://www.linkedin.com/in/dylan-lamb-8b9321191)** · **[Portfolio case study](https://github.com/dylanlamb19/mr-bills-plumbing)** · **[Live site](https://mrbillsplumbing.grok.me)**
+## Projects
 
----
+**[Lamb Ascension Engine](https://github.com/dylanlamb19/lamb-ascension-engine)** — lead acquisition and outreach automation for small service businesses. TypeScript, Node, Vite, deployed on Vercel. Discovers local prospects, qualifies them with a fit rating, and runs outreach sequences with owner approval before any first contact.
 
-### Featured work
+**[Hearth](https://github.com/dylanlamb19/hearth)** — a quieter social network for people you already know. Next.js, TypeScript, Tailwind. Feed, friends, groups, events, marketplace, DMs, and invite-only access.
 
-**[Mr. Bill's Plumbing](https://mrbillsplumbing.grok.me)** — conversion-focused website for a Cleburne, TX family plumbing shop (est. 1993). Local SEO, clear CTAs, trust signals (license, reviews, service area).
+## Stack
 
-Case study: [dylanlamb19/mr-bills-plumbing](https://github.com/dylanlamb19/mr-bills-plumbing)
+TypeScript, React, Next.js, Node, Vite, Tailwind, SQL, GitHub Actions CI.
 
----
+## Contact
 
-### What I help with
-
-- Local business websites that convert
-- Digital marketing & web design for service businesses
-- Clear positioning, copy, and call-to-action paths
-
-Connect on LinkedIn: [dylan-lamb-8b9321191](https://www.linkedin.com/in/dylan-lamb-8b9321191)
+Open to junior developer and QA roles. Based in Texas.
