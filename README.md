@@ -5,6 +5,7 @@
 ### Building Ascension OS: AI systems that do the work for small businesses
 
 [![Site](https://img.shields.io/badge/lambascension.com-site-1E6BFF?style=for-the-badge&labelColor=0B1530)](https://lambascension.com)
+[![Demos](https://img.shields.io/badge/Landing_page_demos-see_them-1E6BFF?style=for-the-badge&labelColor=0B1530)](https://lambascension.com/demos/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-1E6BFF?style=for-the-badge&labelColor=0B1530&logo=linkedin)](https://www.linkedin.com/in/dylan-lamb-8b9321191)
 
 </div>
@@ -16,6 +17,8 @@ I'm a full-stack TypeScript developer in Texas. I build AI-powered tools that fi
 **[Ascension OS / Lamb Ascension Engine](https://github.com/dylanlamb19/lamb-ascension-engine-showcase)**: lead acquisition and outreach automation for local service businesses. It discovers prospects through Google Places, scores them for fit, and runs outreach sequences that wait for the owner's approval before any first contact. A background worker handles follow-ups, and a Sentinel layer checks the system's invariants. TypeScript, React 19, TanStack Start, PostgreSQL, Vercel. Source is private; the case study is public.
 
 **[Hearth](https://github.com/dylanlamb19/hearth)**: a quieter social network for the people you already know. Feed, friends, groups, events, marketplace, DMs, and invite-only access. Next.js, TypeScript, Tailwind.
+
+**[Local landing pages](https://lambascension.com/demos/)**: fast, mobile-first one-page sites for local businesses, with a sticky call/book bar and clear pricing. See the [barbershop](https://lambascension.com/demos/barbershop/), [cafe](https://lambascension.com/demos/cafe/) and [mobile detailing](https://lambascension.com/demos/detailing/) demos (sample businesses).
 
 ## Stack
 
