@@ -4,7 +4,7 @@
 
 ### Building Ascension OS: AI systems that do the work for small businesses
 
-[![Site](https://img.shields.io/badge/Ascension_OS-site-1E6BFF?style=for-the-badge&labelColor=0B1530)](https://ascension-os-hearth12.vercel.app)
+[![Site](https://img.shields.io/badge/lambascension.com-site-1E6BFF?style=for-the-badge&labelColor=0B1530)](https://lambascension.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-1E6BFF?style=for-the-badge&labelColor=0B1530&logo=linkedin)](https://www.linkedin.com/in/dylan-lamb-8b9321191)
 
 </div>
@@ -30,4 +30,4 @@ I'm a full-stack TypeScript developer in Texas. I build AI-powered tools that fi
 
 ## Work with me
 
-Open to remote software engineering roles and to AI automation projects for small businesses: chatbots, lead follow-up, and fast websites that bring in calls. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/dylan-lamb-8b9321191).
+Open to remote software engineering roles and to AI automation projects for small businesses: chatbots, lead follow-up, and fast websites that bring in calls. See my work at [lambascension.com](https://lambascension.com), or reach me on [LinkedIn](https://www.linkedin.com/in/dylan-lamb-8b9321191).
