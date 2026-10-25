@@ -1,23 +1,34 @@
+<div align="center">
+
 # Dylan Lamb
 
-Software developer. I build full-stack TypeScript apps — lead generation engines, small-business websites, social platforms, and automation tooling.
+### Building Ascension OS: AI systems that do the work for small businesses
 
-**Available for web design and automation work** for small businesses: websites that bring in calls, and tools that find and follow up with leads. Reach me on [LinkedIn](https://www.linkedin.com/in/dylan-lamb-8b9321191).
+[![Site](https://img.shields.io/badge/Ascension_OS-site-1E6BFF?style=for-the-badge&labelColor=0B1530)](https://ascension-os-hearth12.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-1E6BFF?style=for-the-badge&labelColor=0B1530&logo=linkedin)](https://www.linkedin.com/in/dylan-lamb-8b9321191)
+[![YouTube](https://img.shields.io/badge/Dylan_Builds_AI-watch-1E6BFF?style=for-the-badge&labelColor=0B1530&logo=youtube)](https://www.youtube.com/@DylanBuildsAI)
 
-## Featured work
+</div>
 
-**[Lamb Ascension Engine — case study](https://github.com/dylanlamb19/lamb-ascension-engine-showcase)** — lead acquisition and outreach automation for small service businesses. TypeScript, React 19, TanStack Start, PostgreSQL, deployed on Vercel. Discovers local prospects through Google Places, qualifies them with a fit rating, and runs outreach sequences with owner approval before any first contact; a background worker handles follow-ups and a Sentinel layer checks invariants. Source is private and available on request.
+I'm a full-stack TypeScript developer in Texas. I build AI-powered tools that find leads, follow up, and keep small businesses running without someone babysitting a dashboard. I ship in public and post what I build on YouTube as **Dylan Builds AI**.
 
-**[Mr. Bill's Plumbing](https://github.com/dylanlamb19/mr-bills-plumbing)** — website for a local plumbing business. Live site: [mrbillsplumbing.grok.me](https://mrbillsplumbing.grok.me).
+## What I'm building
 
-## Other projects
+**[Ascension OS / Lamb Ascension Engine](https://github.com/dylanlamb19/lamb-ascension-engine-showcase)**: lead acquisition and outreach automation for local service businesses. It discovers prospects through Google Places, scores them for fit, and runs outreach sequences that wait for the owner's approval before any first contact. A background worker handles follow-ups, and a Sentinel layer checks the system's invariants. TypeScript, React 19, TanStack Start, PostgreSQL, Vercel. Source is private; the case study is public.
 
-**[Hearth](https://github.com/dylanlamb19/hearth)** — a quieter social network for people you already know. Next.js, TypeScript, Tailwind. Feed, friends, groups, events, marketplace, DMs, and invite-only access.
+**[Hearth](https://github.com/dylanlamb19/hearth)**: a quieter social network for the people you already know. Feed, friends, groups, events, marketplace, DMs, and invite-only access. Next.js, TypeScript, Tailwind.
 
 ## Stack
 
-TypeScript, React, Next.js, Node, Vite, Tailwind, SQL, GitHub Actions CI.
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1530?style=flat-square&logo=typescript&logoColor=1E6BFF)
+![React](https://img.shields.io/badge/React-0B1530?style=flat-square&logo=react&logoColor=1E6BFF)
+![Next.js](https://img.shields.io/badge/Next.js-0B1530?style=flat-square&logo=nextdotjs&logoColor=1E6BFF)
+![Node](https://img.shields.io/badge/Node-0B1530?style=flat-square&logo=nodedotjs&logoColor=1E6BFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1530?style=flat-square&logo=postgresql&logoColor=1E6BFF)
+![Tailwind](https://img.shields.io/badge/Tailwind-0B1530?style=flat-square&logo=tailwindcss&logoColor=1E6BFF)
+![Vercel](https://img.shields.io/badge/Vercel-0B1530?style=flat-square&logo=vercel&logoColor=1E6BFF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B1530?style=flat-square&logo=githubactions&logoColor=1E6BFF)
 
-## Contact
+## Work with me
 
-Open to freelance web/automation projects and junior developer and QA roles. Based in Texas. [LinkedIn](https://www.linkedin.com/in/dylan-lamb-8b9321191)
+Open to remote software engineering roles and to AI automation projects for small businesses: chatbots, lead follow-up, and fast websites that bring in calls. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/dylan-lamb-8b9321191).
