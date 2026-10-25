@@ -6,7 +6,6 @@
 
 [![Site](https://img.shields.io/badge/Ascension_OS-site-1E6BFF?style=for-the-badge&labelColor=0B1530)](https://ascension-os-hearth12.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-1E6BFF?style=for-the-badge&labelColor=0B1530&logo=linkedin)](https://www.linkedin.com/in/dylan-lamb-8b9321191)
-[![YouTube](https://img.shields.io/badge/Dylan_Builds_AI-watch-1E6BFF?style=for-the-badge&labelColor=0B1530&logo=youtube)](https://www.youtube.com/@DylanBuildsAI)
 
 </div>
 
